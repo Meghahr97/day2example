@@ -1,0 +1,8 @@
+C:\Users\nexwave\Documents\Visual Studio 2015\Projects\day2example\extension example\bin\Debug\extension example.exe.config
+C:\Users\nexwave\Documents\Visual Studio 2015\Projects\day2example\extension example\bin\Debug\extension example.exe
+C:\Users\nexwave\Documents\Visual Studio 2015\Projects\day2example\extension example\bin\Debug\extension example.pdb
+C:\Users\nexwave\Documents\Visual Studio 2015\Projects\day2example\extension example\bin\Debug\calculatorlibrary.dll
+C:\Users\nexwave\Documents\Visual Studio 2015\Projects\day2example\extension example\bin\Debug\calculatorlibrary.pdb
+C:\Users\nexwave\Documents\Visual Studio 2015\Projects\day2example\extension example\obj\Debug\extension example.csprojResolveAssemblyReference.cache
+C:\Users\nexwave\Documents\Visual Studio 2015\Projects\day2example\extension example\obj\Debug\extension example.exe
+C:\Users\nexwave\Documents\Visual Studio 2015\Projects\day2example\extension example\obj\Debug\extension example.pdb

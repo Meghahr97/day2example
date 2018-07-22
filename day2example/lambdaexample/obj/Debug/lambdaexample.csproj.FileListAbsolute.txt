@@ -1,0 +1,6 @@
+C:\Users\nexwave\Documents\Visual Studio 2015\Projects\day2example\lambdaexample\bin\Debug\lambdaexample.exe.config
+C:\Users\nexwave\Documents\Visual Studio 2015\Projects\day2example\lambdaexample\bin\Debug\lambdaexample.exe
+C:\Users\nexwave\Documents\Visual Studio 2015\Projects\day2example\lambdaexample\bin\Debug\lambdaexample.pdb
+C:\Users\nexwave\Documents\Visual Studio 2015\Projects\day2example\lambdaexample\obj\Debug\lambdaexample.csprojResolveAssemblyReference.cache
+C:\Users\nexwave\Documents\Visual Studio 2015\Projects\day2example\lambdaexample\obj\Debug\lambdaexample.exe
+C:\Users\nexwave\Documents\Visual Studio 2015\Projects\day2example\lambdaexample\obj\Debug\lambdaexample.pdb
